@@ -1,8 +1,10 @@
 /*
 
-TemplateMo 559 Zay Shop
+TemplateMo 559 YASHA INTERNATIONAL
+ Shop
 
-https://templatemo.com/tm-559-zay-shop
+https://templatemo.com/tm-559-YASHA INTERNATIONAL
+-shop
 
 */
 
